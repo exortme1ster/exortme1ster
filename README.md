@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FindMe App]**
+- 🔭 I’m currently working on **FindMe Telegram Bot**
 
 - 🌱 I’m currently learning **MERN Stack**
 
