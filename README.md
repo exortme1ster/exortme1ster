@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✌️🏻, I'm Nikita</h1>
+<h1 align="center">Hi 🤙🏻, I'm Nikita</h1>
 <h3 align="center">I'm a passionate Software Engineer from Ukraine.</h3>
 
 
